@@ -1,12 +1,43 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This site showcases my skills, projects, and experience as a **MERN Stack Web Developer**. Built with modern web technologies and designed for clean user experience and responsiveness.
 
-Currently, two official plugins are available:
+## 🔗 Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Visit My Portfolio](https://your-portfolio-link.com)
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Portfolio Screenshot](./screenshot.png) <!-- replace with actual screenshot if available -->
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React
+- **Routing:** React Router
+- **Animations & Icons:** AOS, React Icons, Lottie
+- **Backend (Optional):** Node.js, Express.js
+- **Database (Optional):** MongoDB
+- **Deployment:** Vercel / Netlify (Frontend), Render / Railway (Backend)
+
+---
+
+## 📂 Features
+
+- 🖼️ Responsive Design for all screen sizes
+- 🌙 Dark Mode (optional)
+- 📄 Downloadable Resume
+- 🧑‍💻 Projects Showcase with live demo and GitHub links
+- 📧 Contact form (can be functional via EmailJS or backend)
+- 🧭 Smooth Navigation with React Router
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/yourusername/portfolio-website.git
+cd portfolio-website
