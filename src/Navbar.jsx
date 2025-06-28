@@ -73,19 +73,17 @@ const Navbar = () => {
           <a href="#" className="block text-pink-600">
             Home
           </a>
-          <a href="#" className="block">
+          <a href="#about" className="block">
             About
           </a>
           <a href="#" className="block">
             Service
           </a>
-          <a href="#" className="block">
-            Portfolio
+          <a href="#projects" className="block">
+            Projects
           </a>
-          <a href="#" className="block">
-            Blog
-          </a>
-          <a href="#" className="block">
+          
+          <a href="#contact" className="block">
             Contact
           </a>
           <button className="w-full mt-2 bg-pink-600 text-white py-2 rounded-md shadow hover:bg-pink-700 transition">
